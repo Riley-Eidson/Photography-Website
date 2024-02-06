@@ -55,6 +55,7 @@
     .overlay-image {
         width: 40%; 
         height: 40%;
+        top: 30px;
     }
 
     .overlapping-text {
@@ -63,5 +64,6 @@
 
     .overlapped-text {
         font-size: 10px;
+        top: 20px;
     }
 }
