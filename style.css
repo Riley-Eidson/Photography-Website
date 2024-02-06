@@ -60,6 +60,7 @@
     
     nav ul li:nth-child(1) {
         margin-left: 0; 
+        margin-right: 0;
     }
     nav ul li:nth-child(2) {
         margin-right: 25px;
