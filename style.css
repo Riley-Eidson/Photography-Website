@@ -67,6 +67,9 @@
     nav ul li:nth-child(3) {
         margin-right: 0; 
     }
+    nav ul li:nth-child(4) {
+        margin-right: 0; 
+    }
 
     nav ul li a {
         text-decoration: none;
