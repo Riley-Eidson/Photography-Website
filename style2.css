@@ -54,13 +54,14 @@
 @media screen and (max-width: 768px) {
     .overlay-image {
         width: 40%; 
+        height: 40%;
     }
 
     .overlapping-text {
-        font-size: 20px;
+        font-size: 5px;
     }
 
     .overlapped-text {
-        font-size: 15px;
+        font-size: 5px;
     }
 }
